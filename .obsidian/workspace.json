@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação Competitiva/Aleatórios/Programação.md",
+                "file": "Programação Competitiva/Aleatórios/STL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programação"
+              "title": "STL"
             }
           }
         ]
@@ -176,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fb74c3301a5bbd0",
+  "active": "419ea4b55ca86e5e",
   "lastOpenFiles": [
     "2025-02-20.md",
     "Untitled.canvas",
-    "Programação Competitiva/Aleatórios/Programação.md",
+    "Programação Competitiva/Aleatórios/STL.md",
     "Programação Competitiva/Aleatórios/Matemática.md",
     "Programação Competitiva/Untitled.md",
     "Programação Competitiva/Untitled/Untitled",
