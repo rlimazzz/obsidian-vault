@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação Competitiva/Aleatórios/STL.md",
+                "file": "Engenharia de Dados/Docker/Básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STL"
+              "title": "Básicos"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,10 +179,15 @@
   },
   "active": "419ea4b55ca86e5e",
   "lastOpenFiles": [
-    "2025-02-20.md",
-    "Untitled.canvas",
     "Programação Competitiva/Aleatórios/STL.md",
     "Programação Competitiva/Aleatórios/Matemática.md",
+    "Engenharia de Dados/Docker/Básicos.md",
+    "Pasted image 20250911110900.png",
+    "Engenharia de Dados/Docker",
+    "Untitled",
+    "Engenharia de Dados",
+    "2025-02-20.md",
+    "Untitled.canvas",
     "Programação Competitiva/Untitled.md",
     "Programação Competitiva/Untitled/Untitled",
     "Programação Competitiva/Aleatórios",
