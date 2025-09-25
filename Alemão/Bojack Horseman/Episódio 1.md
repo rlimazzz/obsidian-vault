@@ -27,13 +27,14 @@
 
 "doch die Familienkomödie kam in Amerika an"
 
+
 - **Doch**: Esta palavra é crucial aqui. Significa "mas", "no entanto" ou "contudo". Ela introduz um contraste direto com a afirmação anterior ("foi descartado pelos críticos como lixo"). Portanto, a frase está estabelecendo uma oposição: os críticos odiaram, **mas** o público gostou.
     
 - **die Familienkomödie**: "a comédia familiar".
     
 - **kam... an**: Esta é a parte mais importante. É o passado do verbo separável **"ankommen"**. Embora "ankommen" literalmente signifique "chegar", neste contexto ele tem um significado idiomático muito comum: **ser bem recebido, agradar, fazer sucesso, ou "pegar" entre o público**.
 
-"Schön, hier zu sein. Entschuldigen Sie die Verspätung"
+**"Schön, hier zu sein. Entschuldigen Sie die Verspätung" - É bom estar aqui. Desculpe pelo atraso."**
 
 - **Schön, hier zu sein.**
     
@@ -51,12 +52,15 @@
         
     - **Contexto**: É a maneira padrão e educada de se desculpar por chegar atrasado a um compromisso.
 
-"Sie sollten vernünftig parken"
+**"Sie sollten vernünftig parken" - "Você deveria estacionar corretamente"**
 
 - **sollten**: Esta é a forma do verbo modal "sollen" (dever). O uso de "sollten" (a forma subjuntiva) suaviza a frase, transformando-a mais em um conselho forte ou uma recomendação do que uma ordem direta. No entanto, ela carrega um claro tom de crítica ou desaprovação. É uma maneira de dizer "o esperado seria que você fizesse isso".
     
 - **vernünftig**: Esta é a palavra-chave. Literalmente significa "razoável", "sensato", "decente". No contexto de estacionar, "vernünftig parken" significa fazer isso da maneira correta e esperada.
 
-"Ich bin total betrunken"
+**"Ich bin total betrunken"** - **"Eu estou totalmente bêbado(a)."**
 
-	
+
+- **total**: É um intensificador, assim como em português e inglês. Significa "totalmente", "completamente". Ele serve para dar ênfase ao adjetivo que vem a seguir, indicando um alto grau de intoxicação, e não apenas um pouco de embriaguez.
+    
+- **betrunken**: É o adjetivo alemão para "bêbado" ou "embriagado".
