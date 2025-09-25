@@ -64,3 +64,18 @@
 - **total**: É um intensificador, assim como em português e inglês. Significa "totalmente", "completamente". Ele serve para dar ênfase ao adjetivo que vem a seguir, indicando um alto grau de intoxicação, e não apenas um pouco de embriaguez.
     
 - **betrunken**: É o adjetivo alemão para "bêbado" ou "embriagado".
+
+**"Sie sind jetzt gerade betrunken" - "Você está bêbado(a) agora mesmo."**
+
+- **Sie sind**: "Você está". Novamente, "Sie" é a forma formal de tratamento ("o senhor/a senhora"), mas em português moderno, "você" é usado na maioria dos contextos. O importante é notar que a frase é direcionada a outra pessoa, ao contrário da anterior ("Ich bin...", "Eu estou...").
+    
+- **jetzt gerade**: Esta combinação é usada para dar uma forte ênfase ao **presente imediato**.
+    
+    - **jetzt**: significa "agora".
+        
+    - **gerade**: também significa "agora", mas com um sentido de "neste exato momento", "bem agora".
+        
+    - Usá-los juntos ("jetzt gerade") reforça a ideia de que a ação ou o estado está acontecendo **neste preciso instante**. Não foi ontem, não será amanhã, é _agora mesmo_.
+        
+- **betrunken**: "bêbado(a)".
+
