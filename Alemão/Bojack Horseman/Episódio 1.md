@@ -79,3 +79,31 @@
         
 - **betrunken**: "bêbado(a)".
 
+**"Kommt es mir nur so vor, oder läuft dieses Interview echt super?" -  "É impressão minha ou esta entrevista está indo muito bem?"**
+
+- **Kommt es mir nur so vor,...?**
+    
+    - Esta é uma expressão idiomática muito usada em alemão.
+        
+    - **Literalmente**: "Isso só parece assim para mim?".
+        
+    - **Significado real**: "É impressão minha...?" ou "É só comigo que parece que...?".
+        
+    - É uma forma de apresentar uma opinião ou observação pessoal e, ao mesmo tempo, perguntar se a outra pessoa compartilha do mesmo sentimento.
+        
+- **...oder läuft dieses Interview echt super?**
+    
+    - **oder**: "ou".
+        
+    - **läuft**: É o verbo "laufen", que literalmente significa "correr" ou "andar". No entanto, em contextos como este, ele é usado de forma idiomática para indicar como algo está **progredindo, indo, ou decorrendo**. Dizer que algo "läuft gut" (está correndo bem) é muito comum.
+        
+    - **dieses Interview**: "esta entrevista".
+        
+    - **echt super**: Uma expressão informal para "muito bem", "realmente ótimo".
+        
+        - **echt**: significa "realmente", "de verdade", e funciona como um intensificador.
+            
+        - **super**: significa "super", "ótimo".
+
+
+
