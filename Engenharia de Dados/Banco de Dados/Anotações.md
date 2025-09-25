@@ -18,3 +18,5 @@ $π id, firstname, lastname ((persons) ⨝ (naoempregados))$
 E se eu quiser saber a quantidade de fotos que cada marca de câmera tirou?
 
 $γ brand ; count(cameraId)→ qtd_fotos((photos) ⨝ cameraId = cameras.id (cameras))$
+O operador γ serve como agrupamento,
+
