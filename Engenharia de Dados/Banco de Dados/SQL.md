@@ -21,31 +21,37 @@ Brincando com SQL e [[Álgebra Relacional]] , de acordo com o banco de dados usa
 
 - Exemplo 1:
 
+**Quais são os departamentos de número 5?**
 	SELECT * FROM DEPARTAMENTO 
 	WHERE DEPARTAMENTO.Dnumero = 5
 
 - Exemplo 2:
 
+**Quais são os nomes e números dos departamentos com o número 5?**
 	SELECT Dnome, Dnumero FROM DEPARTAMENTO 
 	WHERE DEPARTAMENTO.Dnumero = 5
 
 - Exemplo 3:
 
+**Quais são os primeiros nomes e sobrenomes de funcionários do sexo masculino?**
 	SELECT pnome AS 'Primeiro Nome', unome FROM FUNCIONARIO
 	WHERE sexo = 'M'
 
 - Exemplo 4:
 
+**Qual o primeiro nome, sobrenome, sexo e salario dos funcionários que tem o salário entre 30000 e 40000?**
 	SELECT Pnome AS 'PRIMEIRO NOME', unome, sexo, salario FROM FUNCIONARIO
 	WHERE salario BETWEEN 30000 and 40000
 
 - Exemplo 5:
 
+**Qual o primeiro nome, sobrenome, sexo e salario dos funcionários que não tem salário entre 30000 e 40000?**
 	SELECT Pnome AS 'PRIMEIRO NOME', unome, sexo, salario FROM FUNCIONARIO
 	WHERE salario NOT BETWEEN 30000 and 40000
 
 - Exemplo 6:
 
+**Qual o cpf, primeiro nome e sobrenome dos funcionários que não tem o salário igual a 40000, 5000 e 43000?**
 	SELECT Cpf, Pnome, Unome, Salario FROM FUNCIONARIO
 	WHERE Salario NOT IN (40000, 50000, 43000)
 
