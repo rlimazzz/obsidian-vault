@@ -25,6 +25,9 @@ Exemplo 2:
 	SELECT Dnome, Dnumero FROM DEPARTAMENTO 
 	WHERE DEPARTAMENTO.Dnumero = 5
 
+Exemplo 3:
 
+	SELECT pnome AS 'Primeiro Nome', unome FROM FUNCIONARIO
+	WHERE sexo = 'M'
 
 
