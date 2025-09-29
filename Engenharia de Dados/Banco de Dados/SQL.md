@@ -30,4 +30,8 @@ Exemplo 3:
 	SELECT pnome AS 'Primeiro Nome', unome FROM FUNCIONARIO
 	WHERE sexo = 'M'
 
+Exemplo 4:
+
+	SELECT Pnome AS 'PRIMEIRO NOME', unome, sexo, salario FROM FUNCIONARIO
+	WHERE salario BETWEEN 30000 and 40000
 
