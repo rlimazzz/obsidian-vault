@@ -56,3 +56,33 @@ Brincando com SQL e [[Álgebra Relacional]] , de acordo com o banco de dados usa
 	WHERE Salario NOT IN (40000, 50000, 43000)
 
 
+Ótima pergunta! A resposta é: não, a gente não está limitado a apenas uma condição no JOIN.
+
+Você pode ter múltiplas condições na cláusula ON utilizando os operadores lógicos AND ou OR.
+
+O seu exemplo separa as responsabilidades de forma muito comum e legível:
+
+    A cláusula ON Dnr=Dnumero é a condição de junção. Ela define a regra fundamental de como uma linha da tabela FUNCIONARIO se relaciona com uma linha da tabela DEPARTAMENTO.
+
+    A cláusula WHERE Dnome='Pesquisa' é uma condição de filtro. Ela é aplicada depois que a junção acontece, para selecionar apenas as linhas do resultado que nos interessam (neste caso, apenas os funcionários do departamento de Pesquisa).
+
+Adicionando Múltiplas Condições no JOIN
+
+Você poderia, por exemplo, unir duas tabelas com base em mais de um campo. Imagine que, além do número do departamento, você só quisesse ligar um funcionário ao seu departamento se ele também fosse o gerente daquele departamento.
+
+A consulta poderia ser assim:
+SQL
+
+SELECT F.Pnome, F.Unome, F.Salario
+FROM FUNCIONARIO F JOIN DEPARTAMENTO D
+  ON F.Dnr = D.Dnumero AND F.Cpf = D.Cpf_gerente;
+
+***Diferença Prática entre ON e WHERE***
+
+Para um INNER JOIN (o JOIN padrão), colocar uma condição no ON ou no WHERE muitas vezes produz o mesmo resultado final. O otimizador de consultas do banco de dados costuma tratar ambos os casos de forma semelhante.
+
+No entanto, a diferença se torna crucial quando usamos OUTER JOINs (como LEFT JOIN ou RIGHT JOIN).
+
+Condição no ON: O filtro é aplicado durante a operação de junção.
+
+Condição no WHERE: O filtro é aplicado depois que a operação de junção foi concluída.
