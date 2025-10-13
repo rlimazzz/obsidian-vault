@@ -4,3 +4,6 @@ Was hast du heute vor? - What are you doing today?
 Ausnahmsweise mal - For once
 Ich werde - I will 
 Das klingt nach einem guten Abend - That's sounds like a good evening
+Donnerstagnachmittag - Thursday afternoon
+Teilnehmerinnen - Participants
+Habt ihr schon Pläne für heute Abend? - Do you already have plans for this evening?
