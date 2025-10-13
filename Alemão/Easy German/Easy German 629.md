@@ -12,3 +12,5 @@ Fortbildung - Advanced education
 Bildung - Education
 Quatschen - Chat
 Dort - There
+Zulassen - Allow
+Nicht Zulassen - Not Allow
