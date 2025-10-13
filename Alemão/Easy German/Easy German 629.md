@@ -8,3 +8,7 @@ Donnerstagnachmittag - Thursday afternoon
 Teilnehmerinnen - Participants
 Habt ihr schon Pläne für heute Abend? - Do you already have plans for this evening?
 Rechner - Computer
+Fortbildung - Advanced education
+Bildung - Education
+Quatschen - Chat
+Dort - There
