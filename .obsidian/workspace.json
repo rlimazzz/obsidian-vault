@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alemão/Easy German/Easy German 629.md",
+                "file": "Software Básico/Assembly/Anotações Assembly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Easy German 629"
+              "title": "Anotações Assembly"
             }
           }
         ]
@@ -179,11 +179,14 @@
   },
   "active": "55de77ee524c0968",
   "lastOpenFiles": [
+    "Software Básico/Assembly/Anotações Assembly.md",
+    "Software Básico/Assembly",
+    "Software Básico",
     "Alemão/Easy German/Easy German 629.md",
+    "Untitled.base",
     "Alemão/Bojack Horseman/Episódio 1.md",
     "Engenharia de Dados/Banco de Dados/SQL.md",
     "Alemão/Easy German",
-    "Untitled.base",
     "Engenharia de Dados/Banco de Dados/Provas Passadas.md",
     "Programação Competitiva/Aleatórios/STL.md",
     "Programação Competitiva/Aleatórios/Matemática.md",
@@ -199,8 +202,6 @@
     "2025-02-20.md",
     "Untitled.canvas",
     "Programação Competitiva/Untitled.md",
-    "Programação Competitiva/Untitled/Untitled",
-    "Programação Competitiva/Aleatórios",
-    "Programação Competitiva"
+    "Programação Competitiva/Untitled/Untitled"
   ]
 }
