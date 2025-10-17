@@ -52,6 +52,62 @@ Exemplos de variáveis globais:
 
 Tipos de dados assembly:
 	.byte  : 1 byte
-	.short : 2 bytes
-	.int : 4 bytes
+	.word : 2 bytes
+	.long : 4 bytes
 	.quad : 8 bytes
+
+Váriaveis globais (String):
+	.ascii : Não adiciona o '\0' no final da string
+	.asciz : Adiciona o '\0' no final da string
+
+Movimentação de Dados:
+
+```asm
+mov[b, w, l, q] fonte, destino
+```
+
+Os argumentos fonte e destino devem ser compatíveis com o sufixo, ou seja, devem possuir o mesmo tipo. Também não podemos recuperar 1 byte da memória e colocar em um registrador que indique 8 bytes.
+
+Constantes são precedidas por "$" seguido por valor inteiro em notação C.
+
+```
+$362
+$0xF3E3
+```
+
+Registradores são especificados pelo nome:
+``
+```
+%rax 
+%ecx
+%si
+%esi
+```
+
+Exemplos de movimentações de dados:
+
+```
+movl $1024, %eax
+movl $0xFF, %ebx
+movb $0, %al
+movl %ebx, %ecx
+movq %r12, %r13
+
+/* constante de 64 bits usa movabs */
+movabs $0x11ffcc22aa33bb00, %rax
+```
+
+Memória (Modo Indireto) :
+
+```
+.data 
+	val : .int 0 
+	
+	.text
+	main:
+		movq $val , %rax # $val pega o endereço de memória de val e manda para o registrador rax, lembre-se que como um ponteiro tem 8 bytes precisamos usar movq e um registrador de 8 bytes
+		movl $1, (%rax) # 
+		movl (%rax), %eax
+```
+
+Movimentações com Extensão
