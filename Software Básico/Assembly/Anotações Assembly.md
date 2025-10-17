@@ -35,3 +35,23 @@ int main() {
 		ret
 ```
 
+Labels são usadas para **nomear** variáveis globais, funções e posições para jumps. Labels iniciados por ".L" não são visíveis fora do arquivo.
+
+Exemplos de variáveis globais:
+
+```asm
+.data
+	num : .int 1024
+	i: .short 0x33AF
+	str01: .ascii "Hello\0"
+	str02: .asciz "Hello"
+	str03: .string "Hello"
+	
+	vet: .int 1, 2, 3, 4, 5, 6
+```
+
+Tipos de dados assembly:
+	.byte  : 1 byte
+	.short : 2 bytes
+	.int : 4 bytes
+	.quad : 8 bytes
