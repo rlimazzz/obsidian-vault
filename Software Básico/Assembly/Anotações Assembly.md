@@ -110,4 +110,21 @@ Memória (Modo Indireto) :
 		movl (%rax), %eax
 ```
 
-Movimentações com Extensão
+Movimentações com Extensão: As instruções "movs" e "movz" são usadas para converter tipos menores em tipos maiores usando o sinal e usando o zero respectivamente, lembre-se o destino deve ser sempre um registrador.
+
+```
+movsbw
+movsbl
+movsbq
+movswl
+movswq
+movslq
+```
+
+```
+movzbw
+movzbl
+movzbq
+movzwl
+movzwq
+```
