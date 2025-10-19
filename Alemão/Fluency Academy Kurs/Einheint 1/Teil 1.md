@@ -4,3 +4,5 @@ Gehen - Ir
 Rot - Vermelho
 Kinder - Filhos
 Alpen - Alpes
+Ball - Bola
+Kalt - Frio
