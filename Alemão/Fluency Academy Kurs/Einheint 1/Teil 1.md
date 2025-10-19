@@ -6,3 +6,5 @@ Kinder - Filhos
 Alpen - Alpes
 Ball - Bola
 Kalt - Frio
+Als - Como
+Toll - Legal
