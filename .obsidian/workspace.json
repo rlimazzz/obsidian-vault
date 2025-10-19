@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Básico/Assembly/Anotações Assembly.md",
+                "file": "Alemão/Fluency Academy Kurs/Einheint 1/Teil 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anotações Assembly"
+              "title": "Teil 1"
             }
           }
         ]
@@ -177,9 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55de77ee524c0968",
+  "active": "0fb74c3301a5bbd0",
   "lastOpenFiles": [
     "Software Básico/Assembly/Anotações Assembly.md",
+    "Alemão/Fluency Academy Kurs/Einheint 1/Teil 1.md",
+    "Alemão/Fluency Academy Kurs/Einheint 1",
+    "Alemão/Fluency Academy Kurs",
     "Programação Competitiva/Aleatórios/Matemática.md",
     "Software Básico/Assembly",
     "Software Básico",
@@ -198,10 +201,8 @@
     "Engenharia de Dados/Banco de Dados",
     "Pasted image 20250911110900.png",
     "Engenharia de Dados/Docker",
-    "Engenharia de Dados",
     "2025-02-20.md",
     "Untitled.canvas",
-    "Programação Competitiva/Untitled.md",
-    "Programação Competitiva/Untitled/Untitled"
+    "Programação Competitiva/Untitled.md"
   ]
 }
