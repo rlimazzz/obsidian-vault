@@ -193,3 +193,5 @@ movl (%rcx), %eax
 ```
 
 Acessando Array (Índice Expressão):
+
+	A expressão é resolvida isoladamente para depois estender para 64-bits, por exemplo se temos alguma soma entre um word e um long, temos que transformar o char em long e depois de fazer a operação fazemos o casting para 64-bits.
