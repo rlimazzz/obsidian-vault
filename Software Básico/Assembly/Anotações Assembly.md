@@ -128,3 +128,17 @@ movzbq
 movzwl
 movzwq
 ```
+
+Acessando Array:
+
+O C usa a seguinte fórmula para indexação do vetor: 
+
+```C
+vet[i] = addr(vet) + (i * sizeof(T))
+/*
+ addr(vet) é 64 bits
+ o termo (i * sizeof(T)) deve ser convertido para 64 bits para realizar a soma
+*/
+
+```
+
