@@ -134,11 +134,62 @@ Acessando Array:
 O C usa a seguinte fórmula para indexação do vetor: 
 
 ```C
-vet[i] = addr(vet) + (i * sizeof(T))
+vet[i] = addr(vet) + (i * sizeof(T));
 /*
  addr(vet) é 64 bits
  o termo (i * sizeof(T)) deve ser convertido para 64 bits para realizar a soma
 */
-
 ```
 
+Acessando Array (Índice Constante):
+
+O código C seguinte:
+
+```C
+int vet[5];
+
+x = vet[2];
+```
+
+Pode ser traduzido diretamente para Assembly da seguinte forma: 
+
+```asm
+movq $vet, %rcx
+movl 8(%rcx), %eax
+```
+
+Ou também:
+
+```asm
+movq $vet, %rbx # ponteiro inicial do vetor
+movabs $2, %rcx # índice 2 que queremos
+imulq $4, %rcx # sizeof(T)
+addq %rbx, %rcx # operação addr = &vet + (2 * sizeof(T));
+movl (%rcx), %eax # movemos para o %eax 
+```
+
+Acessando Array (Índice Variável):
+
+Variável : vet[i]
+	Endereço de vet em um registrador 64-bits 
+	Estender a variável para 64-bits (mantendo o sinal)
+	Multiplicar o registrador da variável por sizeof(T)
+	Somar os dois registradores
+
+Exemplo:
+```C
+short i = 3;
+int vet[5];
+
+x = vet[i];
+```
+
+```asm
+movq $vet, %rbx
+movswq i, %rcx
+imulq $4, %rcx
+addq %rbx, %rcx
+movl (%rcx), %eax
+```
+
+Acessando Array (Índice Expressão):
