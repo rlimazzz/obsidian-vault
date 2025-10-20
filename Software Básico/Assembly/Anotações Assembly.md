@@ -195,3 +195,26 @@ movl (%rcx), %eax
 Acessando Array (Índice Expressão):
 
 	A expressão é resolvida isoladamente para depois estender para 64-bits, por exemplo se temos alguma soma entre um word e um long, temos que transformar o char em long e depois de fazer a operação fazemos o casting para 64-bits.
+
+```C
+int i = 2;
+char j =3;
+int vet[5];
+
+x = vet[i + j];
+```
+
+Equivalente em assembly:
+
+```asm
+movq $vet, %rbx
+movl i, %eax
+movsbl j, %ecx # casting de byte para long para fazermos a operação
+addl %eax, %ecx # adicionamos i + j de acordo com a operação interna
+movslq %ecx, %rcx # casting da operação para usarmos como ponteiro para o acesso
+imulq $4, %rcx # multiplicação por 4 pois estamos usando o tipo long(int)
+addq %rcx, %rbx # adicionamos no ponteiro de vet
+movl (%rbx), %eax # salvamos no registrador eax para usarmos depois 
+```
+
+	
