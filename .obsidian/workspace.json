@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Básico/Assembly/Anotações Assembly.md",
+                "file": "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anotações Assembly"
+              "title": "Subsequences Summing to Sevens"
             }
           }
         ]
@@ -179,9 +179,11 @@
   },
   "active": "55de77ee524c0968",
   "lastOpenFiles": [
+    "Software Básico/Assembly/Anotações Assembly.md",
+    "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
+    "Programação Competitiva/Problemas Interessantes",
     "Alemão/Fluency Academy Kurs/Einheint 1/2.md",
     "Alemão/Fluency Academy Kurs/Einheint 1/1.md",
-    "Software Básico/Assembly/Anotações Assembly.md",
     "Alemão/Fluency Academy Kurs/Einheint 1",
     "Alemão/Fluency Academy Kurs",
     "Programação Competitiva/Aleatórios/Matemática.md",
@@ -201,7 +203,6 @@
     "Engenharia de Dados/Docker/Básicos.md",
     "Engenharia de Dados/Banco de Dados",
     "Pasted image 20250911110900.png",
-    "Engenharia de Dados/Docker",
     "2025-02-20.md",
     "Untitled.canvas",
     "Programação Competitiva/Untitled.md"

@@ -1,0 +1,1 @@
+ A lógica desse problema é tirar o módulo de 7 da soma de prefixos para fazer a verificação, quando encontramos um número que subtraído do outro nas ocorrências isso significa que encontramos um múltiplo de 7.
