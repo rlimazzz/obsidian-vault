@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
+                "file": "Godot/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subsequences Summing to Sevens"
+              "title": "Basics"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "55de77ee524c0968",
   "lastOpenFiles": [
-    "Software Básico/Assembly/Anotações Assembly.md",
     "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
+    "Godot/Basics.md",
+    "Godot",
+    "Software Básico/Assembly/Anotações Assembly.md",
     "Programação Competitiva/Problemas Interessantes",
     "Alemão/Fluency Academy Kurs/Einheint 1/2.md",
     "Alemão/Fluency Academy Kurs/Einheint 1/1.md",
@@ -201,7 +203,6 @@
     "Alemão/Bojack Horseman",
     "Alemão",
     "Engenharia de Dados/Docker/Básicos.md",
-    "Engenharia de Dados/Banco de Dados",
     "Pasted image 20250911110900.png",
     "2025-02-20.md",
     "Untitled.canvas",
