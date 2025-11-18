@@ -86,3 +86,13 @@ No entanto, a diferença se torna crucial quando usamos OUTER JOINs (como LEFT J
 Condição no ON: O filtro é aplicado durante a operação de junção.
 
 Condição no WHERE: O filtro é aplicado depois que a operação de junção foi concluída.
+
+***Produto Cartesisano***
+
+- Exemplo 1:
+	SELECT * FROM FUNCIONARIO, DEPARTAMENTO
+
+- Exemplo 2:
+	SELECT Pnome, Unome, Salario  
+	FROM FUNCIONARIO, DEPARTAMENTO  
+	WHERE Dnr=Dnumero AND Dnome='Pesquisa'

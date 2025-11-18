@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godot/Basics.md",
+                "file": "Engenharia de Dados/Banco de Dados/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "SQL"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "55de77ee524c0968",
   "lastOpenFiles": [
-    "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
+    "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Godot/Basics.md",
+    "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
     "Godot",
     "Software Básico/Assembly/Anotações Assembly.md",
     "Programação Competitiva/Problemas Interessantes",
@@ -198,7 +199,6 @@
     "Alemão/Easy German",
     "Engenharia de Dados/Banco de Dados/Provas Passadas.md",
     "Programação Competitiva/Aleatórios/STL.md",
-    "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Alemão/Untitled.md",
     "Alemão/Bojack Horseman",
     "Alemão",
