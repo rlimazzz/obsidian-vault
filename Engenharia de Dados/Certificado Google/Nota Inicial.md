@@ -1,0 +1,1 @@
+Aqui ficar anotado tudo que aprendi para obter o certificado de Data Engineer da google
