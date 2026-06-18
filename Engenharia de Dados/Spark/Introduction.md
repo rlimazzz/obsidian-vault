@@ -1,0 +1,1 @@
+Apache é uma plataforma para computação em clusters, projetada para ser rápida e de proposta geral.

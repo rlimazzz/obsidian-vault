@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Dados/Certificado Google/Nota Inicial.md",
+                "file": "Engenharia de Dados/Spark/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota Inicial"
+              "title": "Introduction"
             }
           }
         ]
@@ -179,11 +179,14 @@
   },
   "active": "55de77ee524c0968",
   "lastOpenFiles": [
-    "Engenharia de Dados/Docker/Básicos.md",
+    "Engenharia de Dados/Spark/Untitled.md",
+    "Engenharia de Dados/Spark/Introduction.md",
+    "Engenharia de Dados/Banco de Dados/SQL.md",
+    "Engenharia de Dados/Spark",
     "Engenharia de Dados/Certificado Google/Nota Inicial.md",
+    "Engenharia de Dados/Docker/Básicos.md",
     "Engenharia de Dados/Certificado Google",
     "Untitled",
-    "Engenharia de Dados/Banco de Dados/SQL.md",
     "Engenharia de Dados/Banco de Dados/Provas Passadas.md",
     "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Godot/Basics.md",
@@ -201,7 +204,6 @@
     "Alemão/Easy German/Easy German 629.md",
     "Untitled.base",
     "Alemão/Bojack Horseman/Episódio 1.md",
-    "Alemão/Easy German",
     "Programação Competitiva/Aleatórios/STL.md",
     "Alemão/Untitled.md",
     "Pasted image 20250911110900.png",
