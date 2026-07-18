@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67cd191a91dc1038",
+        "id": "b9805b63f02c3df0",
         "type": "tabs",
         "children": [
           {
-            "id": "55de77ee524c0968",
+            "id": "1b5cb400a8ba4174",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#O",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55de77ee524c0968",
+  "active": "1b5cb400a8ba4174",
   "lastOpenFiles": [
-    "Engenharia de Dados/Certificado AWS/Untitled 1.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "Engenharia de Dados/Certificado AWS/Módulo 1.md",
+    "Engenharia de Dados/Certificado AWS/Untitled 1.md",
     "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Engenharia de Dados/Certificado AWS",
     "Engenharia de Dados/Spark/Introduction.md",
@@ -203,8 +206,6 @@
     "Alemão/Fluency Academy Kurs/Einheint 1",
     "Alemão/Fluency Academy Kurs",
     "Programação Competitiva/Aleatórios/Matemática.md",
-    "Software Básico/Assembly",
-    "Software Básico",
     "Alemão/Easy German/Easy German 629.md",
     "Alemão/Bojack Horseman/Episódio 1.md",
     "Programação Competitiva/Aleatórios/STL.md",
