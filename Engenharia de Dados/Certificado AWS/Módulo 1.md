@@ -1,0 +1,1 @@
+Modelo cliente-servidor : Arquitetura de rede onde os dispositivos clientes solicitam recursos ou serviços, e computadores servidores os processam e fornecem.

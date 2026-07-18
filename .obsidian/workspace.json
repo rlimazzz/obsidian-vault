@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Dados/Spark/Introduction.md",
+                "file": "Engenharia de Dados/Certificado AWS/Módulo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Módulo 1"
             }
           }
         ]
@@ -179,8 +179,13 @@
   },
   "active": "55de77ee524c0968",
   "lastOpenFiles": [
-    "Engenharia de Dados/Spark/Untitled.md",
+    "Engenharia de Dados/Certificado AWS/Untitled 1.md",
+    "Engenharia de Dados/Certificado AWS/Módulo 1.md",
+    "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
+    "Engenharia de Dados/Certificado AWS",
     "Engenharia de Dados/Spark/Introduction.md",
+    "README.md",
+    "Engenharia de Dados/Spark/Untitled.md",
     "Engenharia de Dados/Banco de Dados/SQL.md",
     "Engenharia de Dados/Spark",
     "Engenharia de Dados/Certificado Google/Nota Inicial.md",
@@ -188,7 +193,6 @@
     "Engenharia de Dados/Certificado Google",
     "Untitled",
     "Engenharia de Dados/Banco de Dados/Provas Passadas.md",
-    "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Godot/Basics.md",
     "Programação Competitiva/Problemas Interessantes/Subsequences Summing to Sevens.md",
     "Godot",
@@ -202,7 +206,6 @@
     "Software Básico/Assembly",
     "Software Básico",
     "Alemão/Easy German/Easy German 629.md",
-    "Untitled.base",
     "Alemão/Bojack Horseman/Episódio 1.md",
     "Programação Competitiva/Aleatórios/STL.md",
     "Alemão/Untitled.md",
