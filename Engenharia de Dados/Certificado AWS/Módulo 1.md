@@ -11,3 +11,8 @@ Os benefícios da AWS são :
 	Não existe custos de manutenção
 	Alta disponibilidade 
 	Tolerância a falhas
+
+## Modelo de Responsabilidade Compartilhada
+
+A AWS é responsável pela segurança da nuvem, bem com atualização de softwares de computação, armazenamento, banco de dados e redes. (Segurança DA Nuvem)
+O cliente é responsável pela criptografia de dados, pelos dados, etc. (Segurança NA Nuvem)
