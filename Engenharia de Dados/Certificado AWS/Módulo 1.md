@@ -29,3 +29,4 @@ No modelo de responsabilidade compartilhada da AWS, o cliente é responsável pe
 
 A segurança física dos data centers e a manutenção do hardware são responsabilidades da AWS. A atualização de software para serviços de computação, rede, armazenamento e banco de dados também é uma responsabilidade da AWS.
 
+[[Módulo 2]]

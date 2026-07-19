@@ -11,3 +11,4 @@ _Fine-Grained Access Control(FGAC)_ : É um método de segurança que trabalha a
 - **Atributos da Ação:** A operação que o usuário está tentando realizar (ler, escrever, editar, excluir, aprovar, etc.).
 
 Por exemplo, uma política de FGAC poderia estipular que um "Gerente de Vendas" (atributo do usuário) pode "visualizar" (atributo da ação) os "dados de vendas do seu próprio time" (atributo do recurso) apenas durante o "horário comercial" (atributo do ambiente) e a partir de um "dispositivo corporativo" (atributo do ambiente).
+
