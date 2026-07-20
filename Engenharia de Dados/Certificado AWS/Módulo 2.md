@@ -32,3 +32,10 @@ O serviço Elastic Load Balancing (ELB) opera distribuindo de forma automática 
 O ELB e o Auto Scaling trabalham juntos para gerenciar o nível de demanda com eficiência. O ELB é responsável por distribuir uniformemente o tráfego de entrada em várias instâncias do EC2. Isso garante que nenhuma instância fique sobrecarregada. Ele também serve como um único ponto de entrada para o tráfego em um grupo de Auto Scaling, direcionando as solicitações para os recursos apropriados.
 
 Enquanto isso, o Auto Scaling ajusta automaticamente o número de instâncias do EC2 com base na demanda. Ele adiciona ou remove instâncias conforme necessário para otimizar o desempenho e o uso de recursos. Juntos, o ELB e o Auto Scaling ajudam a manter a confiabilidade da aplicação e a eficiência de custos.
+
+![[Pasted image 20260720080658.png]]
+![[Pasted image 20260720080717.png]]
+
+Em sistemas fortemente acoplados, os componentes são altamente interdependentes. Se um componente falhar, isso pode causar falhas em cascata. Em contraste, os sistemas fracamente acoplados têm componentes que operam de forma independente, portanto, a falha de um componente não interrompe todo o sistema.
+
+Essa é a melhor abordagem. Os Savings Plans são ideais para workloads críticas que precisam de capacidade consistente e preços previsíveis. As instâncias spot oferecem economias significativas para trabalhos que não são urgentes e podem tolerar interrupções.
