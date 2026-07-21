@@ -13,3 +13,7 @@ Essa resposta descreve com precisão a finalidade e os benefícios dos locais da
 Ao usar várias Regiões AWS, uma empresa pode colocar seus recursos mais perto dos usuários finais, o que reduz a distância que os dados devem percorrer. Isso resulta em menor latência e em uma melhor experiência do usuário. Ao usar várias Zonas de Disponibilidade em uma região, a empresa aprimora a tolerância a falhas de suas aplicações. Se uma zona falhar, sua aplicação poderá continuar operando em outra zona para manter a alta disponibilidade.
 
 As Regiões AWS são, de fato, locais físicos em todo o mundo onde a AWS tem várias Zonas de Disponibilidade isoladas. Os locais da borda, por outro lado, fazem parte da rede de entrega de conteúdo (CDN) da AWS. Eles são otimizados para entrega de conteúdo, não diretamente vinculados às Zonas de Disponibilidade.
+
+Essa resposta descreve com precisão os principais recursos e benefícios da solução CloudFormation. Ela destaca a capacidade de modelar e configurar recursos com uso de código, automatizar o provisionamento, reduzir erros, além de ajudar a manter a consistência do ambiente.
+
+Com um serviço de IaC, como a solução CloudFormation, a equipe pode definir a infraestrutura de forma declarativa. Isso ajuda a criar versões, analisar e automatizar o processo de implantação para garantir consistência e repetibilidade.
