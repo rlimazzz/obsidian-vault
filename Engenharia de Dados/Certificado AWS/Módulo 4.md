@@ -9,3 +9,7 @@ Também é importante considerar quais recursos e serviços específicos estão 
 As Regiões são locais físicos em todo o mundo que contêm vários data centers. Cada Região contém pelo menos três Zonas de Disponibilidade. Cada Zona de Disponibilidade contém um ou mais data centers. Os locais da borda são dispositivos em áreas fora das regiões. Esses dispositivos fornecem ao usuário acesso aos dados acessados com frequência e com baixa latência.
 
 Essa resposta descreve com precisão a finalidade e os benefícios dos locais da borda da AWS. Eles são projetados para melhorar a entrega de conteúdo ao armazená-lo em cache mais perto dos usuários finais para reduzir, assim, a latência e aumentar as velocidades de transferência.
+
+Ao usar várias Regiões AWS, uma empresa pode colocar seus recursos mais perto dos usuários finais, o que reduz a distância que os dados devem percorrer. Isso resulta em menor latência e em uma melhor experiência do usuário. Ao usar várias Zonas de Disponibilidade em uma região, a empresa aprimora a tolerância a falhas de suas aplicações. Se uma zona falhar, sua aplicação poderá continuar operando em outra zona para manter a alta disponibilidade.
+
+As Regiões AWS são, de fato, locais físicos em todo o mundo onde a AWS tem várias Zonas de Disponibilidade isoladas. Os locais da borda, por outro lado, fazem parte da rede de entrega de conteúdo (CDN) da AWS. Eles são otimizados para entrega de conteúdo, não diretamente vinculados às Zonas de Disponibilidade.
