@@ -39,3 +39,11 @@ Enquanto isso, o Auto Scaling ajusta automaticamente o número de instâncias do
 Em sistemas fortemente acoplados, os componentes são altamente interdependentes. Se um componente falhar, isso pode causar falhas em cascata. Em contraste, os sistemas fracamente acoplados têm componentes que operam de forma independente, portanto, a falha de um componente não interrompe todo o sistema.
 
 Essa é a melhor abordagem. Os Savings Plans são ideais para workloads críticas que precisam de capacidade consistente e preços previsíveis. As instâncias spot oferecem economias significativas para trabalhos que não são urgentes e podem tolerar interrupções.
+
+A multilocação no Amazon EC2 se refere a vários inquilinos, ou usuários, compartilhando a mesma instância, mas mantendo o isolamento para fins de segurança e desempenho.
+
+As instâncias reservadas oferecem um desconto de até 75% para workloads previsíveis e estáveis quando se comprometem com um prazo de um ou três anos, tornando-as a opção mais econômica.
+
+Os sistemas fracamente acoplados são projetados para que os componentes sejam independentes. Se um componente falhar, o restante do sistema poderá continuar funcionando normalmente, minimizando o impacto da falha.
+
+[[Módulo 3]]
