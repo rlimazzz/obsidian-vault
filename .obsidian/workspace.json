@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Dados/Certificado AWS/Módulo 3.md",
+                "file": "Engenharia de Dados/Certificado AWS/Módulo 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Módulo 3"
+              "title": "Módulo 4"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "0eba8e7a10bf100d",
   "lastOpenFiles": [
-    "Engenharia de Dados/Certificado AWS/Módulo 4.md",
     "Engenharia de Dados/Certificado AWS/Módulo 3.md",
+    "Engenharia de Dados/Certificado AWS/Módulo 4.md",
     "Engenharia de Dados/Certificado AWS/Módulo 1.md",
     "Engenharia de Dados/Certificado AWS/Módulo 2.md",
     "Engenharia de Dados/Docker/Básicos.md",
