@@ -39,3 +39,5 @@ A solução AWS Batch é um serviço totalmente gerenciado que é possível usar
 A solução Amazon Lightsail é um serviço em nuvem que oferece servidores virtuais privados (VPSs), armazenamento, bancos de dados e redes a um preço mensal previsível. Ela é ideal para pequenas empresas, workloads básicas e desenvolvedores que buscam uma experiência simples na AWS sem a complexidade do Console de Gerenciamento da AWS completo.
 
 A solução AWS Outposts é uma solução de nuvem híbrida totalmente gerenciada que estende a infraestrutura e os serviços da AWS para data centers locais. Ela fornece uma experiência consistente entre on-premises e a nuvem AWS para oferecer componentes computacionais, armazenamento e rede.
+
+[[Módulo 4]]
