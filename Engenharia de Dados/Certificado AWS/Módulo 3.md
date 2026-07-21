@@ -31,3 +31,11 @@ A solução AWS Fargate é um mecanismo computacional sem servidor para contêin
 Ao usar a solução Fargate, não é preciso provisionar ou gerenciar servidores. A solução Fargate gerencia a infraestrutura de servidor para você. É possível se concentrar em inovar e desenvolver suas aplicações e pagar apenas pelos recursos necessários para executar os contêineres.
 
 A solução Amazon ECS é um serviço escalável para orquestrar contêineres na AWS, enquanto a solução Amazon EKS ajuda a simplificar a implantação do Kubernetes. A solução Amazon ECR armazena e gerencia imagens de contêineres compatíveis com OCI para se integrar às soluções Amazon ECS, Amazon EKS e Fargate. A solução Fargate é um mecanismo de computacional sem servidor para contêineres que elimina a necessidade de gerenciar a infraestrutura para trabalhar com as soluções Amazon ECS e Amazon EKS.
+
+A solução Elastic Beanstalk é um serviço totalmente gerenciado que simplifica a implantação, o gerenciamento e o scaling escalabilidade de aplicativos web. Os desenvolvedores podem fazer o upload de seu código, e a solução Elastic Beanstalk gerencia de forma automática o provisionamento da infraestrutura, o escalonamento, o balanceamento de carga e o monitoramento da integridade da aplicação.
+
+A solução AWS Batch é um serviço totalmente gerenciado que é possível usar para a execução de workloads computacionais em lote na AWS. Ela programa, gerencia e dimensiona de forma automática os recursos de computação para trabalhos em lotes e otimizar a alocação de recursos de acordo com os requisitos do trabalho.
+
+A solução Amazon Lightsail é um serviço em nuvem que oferece servidores virtuais privados (VPSs), armazenamento, bancos de dados e redes a um preço mensal previsível. Ela é ideal para pequenas empresas, workloads básicas e desenvolvedores que buscam uma experiência simples na AWS sem a complexidade do Console de Gerenciamento da AWS completo.
+
+A solução AWS Outposts é uma solução de nuvem híbrida totalmente gerenciada que estende a infraestrutura e os serviços da AWS para data centers locais. Ela fornece uma experiência consistente entre on-premises e a nuvem AWS para oferecer componentes computacionais, armazenamento e rede.
