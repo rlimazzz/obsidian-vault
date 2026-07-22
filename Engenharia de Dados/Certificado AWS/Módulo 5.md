@@ -30,3 +30,12 @@ A VPN cria uma conexão mais parecida com um túnel seguro pela internet. Com o 
 
 A solução Direct Connect forneceria os requisitos de largura de banda para a migração, além das transferências contínuas de dados em sua solução híbrida.
 
+Uma solução Amazon API Gateway é um serviço da AWS voltado para a criação, publicação, manutenção, monitoramento e proteção de APIs em qualquer escala. Ela não seria a escolha certa porque a empresa não está procurando um serviço de API.
+
+Um gateway privado virtual é o componente que permite que o tráfego protegido da internet ingresse na VPC. A solução é perfeita porque restringirá o acesso apenas ao tráfego protegido da internet.
+
+**A movimentação de pacotes de dados que viajam por uma rede**
+
+Quando um cliente solicita dados de uma aplicação hospedada na nuvem AWS, essa solicitação é enviada como um pacote. Um pacote é uma unidade de dados enviada pela internet ou por uma rede.
+
+Ele entra em uma VPC por um gateway da internet. Antes que um pacote possa entrar ou sair de uma sub-rede, ele passará por várias verificações de permissões, sendo uma delas uma ACL de rede associada à sub-rede para a qual o pacote está sendo roteado. As permissões definidas pelas ACLs da rede indicam o que é permitido ou negado. Essas permissões são baseadas em quem enviou o pacote e em como o pacote está tentando se comunicar com os recursos em uma sub-rede.
