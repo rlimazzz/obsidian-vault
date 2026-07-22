@@ -39,3 +39,9 @@ Um gateway privado virtual é o componente que permite que o tráfego protegido 
 Quando um cliente solicita dados de uma aplicação hospedada na nuvem AWS, essa solicitação é enviada como um pacote. Um pacote é uma unidade de dados enviada pela internet ou por uma rede.
 
 Ele entra em uma VPC por um gateway da internet. Antes que um pacote possa entrar ou sair de uma sub-rede, ele passará por várias verificações de permissões, sendo uma delas uma ACL de rede associada à sub-rede para a qual o pacote está sendo roteado. As permissões definidas pelas ACLs da rede indicam o que é permitido ou negado. Essas permissões são baseadas em quem enviou o pacote e em como o pacote está tentando se comunicar com os recursos em uma sub-rede.
+
+Uma ACL de rede é um firewall virtual que controla o tráfego de entrada e saída no nível da sub-rede.
+
+Por exemplo, imagine que você está no aeroporto. Os viajantes estão tentando entrar em um país diferente. Você pode pensar nos viajantes como pacotes e no oficial alfandegário como uma ACL de rede. O oficial alfandegário verifica as credenciais dos viajantes quando entram e saem do país. Isso é semelhante à forma como uma ACL de rede verifica as permissões toda vez que um pacote viaja por um limite de sub-rede.
+
+Cada conta AWS tem uma ACL de rede-padrão. Ao configurar a VPC, você pode usar a ACL de rede-padrão da conta ou criar ACLs de rede personalizadas. Em geral, a ACL de rede-padrão da conta permite todo o tráfego de entrada e saída, mas é possível modificá-la ao adicionar suas regras.
