@@ -22,3 +22,11 @@ A VPN cria uma conexão mais parecida com um túnel seguro pela internet. Com o 
 
 **A solução AWS Client VPN** é um serviço de rede que pode ser usado para conectar os profissionais remotos e redes on-premises na nuvem. Trata-se de um serviço VPN elástico e totalmente gerenciado que aumenta ou diminui a escala verticalmente de forma automática de acordo com a demanda do usuário. Por ser uma solução de VPN na nuvem, e não é preciso instalar e gerenciar hardware nem tentar estimar quantos usuários remotos podem estar conectados ao mesmo tempo.
 
+**A VPN site a site** cria uma conexão segura entre o data center ou as filiais e os recursos da nuvem AWS.
+
+**A solução AWS PrivateLink** é uma tecnologia altamente disponível e dimensionável que pode ser usada para conectar a VPC de forma privada a serviços e recursos, como se eles estivessem na sua VPC. Não é preciso usar um gateway da internet, dispositivo NAT, endereço IP público, conexão Direct Connect ou conexão VPN site a site da AWS para permitir a comunicação com serviços ou recursos da AWS pelas suas sub-redes privadas. Em vez disso, basta controlar os endpoints, sites, serviços e recursos específicos da API que podem ser acessados por meio de sua VPC.
+
+**A solução Direct Connect** é um serviço que permite estabelecer uma conexão privada dedicada entre sua rede e a VPC na nuvem AWS.
+
+A solução Direct Connect forneceria os requisitos de largura de banda para a migração, além das transferências contínuas de dados em sua solução híbrida.
+
