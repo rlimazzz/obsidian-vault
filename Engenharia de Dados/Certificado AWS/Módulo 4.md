@@ -17,3 +17,5 @@ As Regiões AWS são, de fato, locais físicos em todo o mundo onde a AWS tem v�
 Essa resposta descreve com precisão os principais recursos e benefícios da solução CloudFormation. Ela destaca a capacidade de modelar e configurar recursos com uso de código, automatizar o provisionamento, reduzir erros, além de ajudar a manter a consistência do ambiente.
 
 Com um serviço de IaC, como a solução CloudFormation, a equipe pode definir a infraestrutura de forma declarativa. Isso ajuda a criar versões, analisar e automatizar o processo de implantação para garantir consistência e repetibilidade.
+
+[[Módulo 5]]
