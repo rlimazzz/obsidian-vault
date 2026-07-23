@@ -45,3 +45,41 @@ Uma ACL de rede é um firewall virtual que controla o tráfego de entrada e saí
 Por exemplo, imagine que você está no aeroporto. Os viajantes estão tentando entrar em um país diferente. Você pode pensar nos viajantes como pacotes e no oficial alfandegário como uma ACL de rede. O oficial alfandegário verifica as credenciais dos viajantes quando entram e saem do país. Isso é semelhante à forma como uma ACL de rede verifica as permissões toda vez que um pacote viaja por um limite de sub-rede.
 
 Cada conta AWS tem uma ACL de rede-padrão. Ao configurar a VPC, você pode usar a ACL de rede-padrão da conta ou criar ACLs de rede personalizadas. Em geral, a ACL de rede-padrão da conta permite todo o tráfego de entrada e saída, mas é possível modificá-la ao adicionar suas regras.
+
+**Controle o tráfego de entrada e saída no nível do recurso**
+
+Depois que um pacote entra em uma sub-rede, ele precisa ter as permissões avaliadas para os recursos dentro da sub-rede, como as instâncias da solução Amazon EC2. Um grupo de segurança é o componente da VPC que verifica as permissões de pacotes para uma instância da solução Amazon EC2. Trata-se de um firewall virtual que controla o tráfego de entrada e saída para recursos específicos da AWS, como instâncias da solução Amazon EC2.
+
+Por padrão, um grupo de segurança nega todo o tráfego de entrada e permite todo o tráfego de saída. Para este exemplo, suponhamos que você esteja em um prédio com um porteiro que recebe os visitantes na porta. Podemos pensar nos visitantes como pacotes e no porteiro como um grupo de segurança. Com as configurações padrão, os grupos de segurança não deixam ninguém entrar e permitem que todo o tráfego de saída saia.
+
+![[Pasted image 20260722150102.png]]
+
+**A solução Route 53** é um DNS que fornece uma maneira confiável e econômica de rotear usuários finais para aplicações da internet.
+
+**A solução CloudFront** é um serviço de rede de entrega de conteúdo (CDN) que entrega o conteúdo com tempos de carregamento mais rápidos, economia de custos e confiabilidade.
+
+**A solução Global Accelerator** é um serviço que usa a rede global da AWS para melhorar a disponibilidade, o desempenho e a segurança das aplicações. Ela usa roteamento inteligente de tráfego e failover rápido se algo der errado em um dos locais de seu aplicação.
+
+A conexão da solução AWS Direct Connect forneceria a largura de banda para as grandes cargas de dados e os requisitos de segurança necessários para a conformidade.
+
+A solução Global Accelerator é um serviço de rede projetado para melhorar a disponibilidade e o desempenho de aplicações para usuários globais. Ela faz isso ao fornecer endereços IP estáticos, ao direcionar o tráfego pela rede global da AWS e ao rotear para endpoints ideais de acordo com a integridade, localização do usuário e políticas.
+
+A solução Route 53 é um serviço de sistema de nomes de domínio (DNS) que gerencia o registro do domínio, roteamento de DNS e verificações de integridade. Ela fornece roteamento confiável e eficiente dos usuários para seu site ou aplicações, estejam eles hospedados na AWS ou em outro lugar.
+
+Uma Zona de Disponibilidade é um data center fisicamente isolado ou um conjunto de data centers dentro de uma Região da AWS. Cada AZ tem energia, resfriamento e rede independentes, projetados para melhorar a disponibilidade das aplicações e tolerância a falhas para permitir que os recursos sejam implantados em várias Zonas de Disponibilidade na mesma região.
+
+Um gateway privado virtual é o endpoint de rede privada virtual (VPN) no lado da AWS. Ele fornece uma maneira de estabelecer uma conexão segura e criptografada entre a rede on-premises e a nuvem privada virtual (VPC).
+
+A solução CloudFront acelera a distribuição de seu conteúdo web estático e dinâmico para seus usuários. Ela distribui o conteúdo com segurança e baixa latência por meio de uma rede mundial de data centers chamada de locais da borda.
+
+As ACLs de rede permitiriam o amplo controle de tráfego no nível da sub-rede. As ACLs de rede também têm regras de tipo de permissão e negação.
+
+A solução Direct Connect estabeleceria uma conexão dedicada de uma rede on-premises com uma ou mais nuvens privadas virtuais (VPCs). Ela também pode reduzir os custos de rede, aumentar o throughput da largura de banda e fornecer uma experiência de rede mais consistente que a de conexões baseadas na internet.
+
+A solução Amazon Client VPN é um serviço de rede que pode ser usado para conectar os profissionais remotos e redes on-premises na nuvem. Ela fornece autenticação avançada e acesso remoto e elástico em um serviço totalmente gerenciado.
+
+As ACLs de rede **NÃO** permitiriam segurança em nível de instância. Elas protegeriam somente o nível da sub-rede.
+
+A solução AWS Site-to-Site VPN cria uma conexão segura entre o data center ou as filiais e os recursos da nuvem AWS.
+
+[[Módulo 6]]
