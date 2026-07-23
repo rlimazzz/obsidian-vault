@@ -29,3 +29,6 @@ Os serviços de armazenamento de arquivos da AWS fornecem sistemas de arquivos c
 - _Amazon FSx_  
     Um serviço de armazenamento de arquivos totalmente gerenciado para sistemas de arquivos populares, como Windows, Lustre e NetApp ONTAP.
 
+O armazenamento de instância do Amazon EC2 não é um serviço autônomo de armazenamento em blocos da AWS. Em vez disso, ele se refere ao armazenamento em nível de bloco que está fisicamente conectado ao computador host da instância EC2. Dependendo do tipo de instância, o armazenamento de instâncias do EC2 pode ser anexado como armazenamento padrão. Como seus dados são perdidos quando uma instância é interrompida ou encerrada, o armazenamento de instâncias do EC2 é melhor para necessidades temporárias de armazenamento baseado em memória, como buffers, caches e dados temporários. Não é recomendado para aplicações que exigem retenção de dados.
+
+O Amazon EBS disponibiliza volumes de _armazenamento no nível de bloco persistentes_ para uso com instâncias do Amazon EC2. Os volumes do EBS funcionam como discos rígidos externos, oferecendo desempenho consistente e de baixa latência para workloads como bancos de dados e sistemas de arquivos.
