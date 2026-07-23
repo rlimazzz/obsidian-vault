@@ -48,3 +48,5 @@ As configurações do S3 Block Public Access substituem as políticas de bucket,
 Os buckets do S3 podem ser acessados globalmente, independentemente da região em que foram criados, desde que tenham as permissões adequadas.
 
 O S3 Standard é considerado armazenamento de uso geral para aplicações em nuvem, sites dinâmicos, distribuição de conteúdo, aplicativos móveis e de jogos e análise de big data. Quando você faz upload um objeto no Amazon S3 sem especificar uma classe de armazenamento, o objeto é adicionado ao S3 Standard por padrão.
+
+O Amazon EFS foi projetado para acesso compartilhado simultâneo de várias instâncias do EC2 em diferentes Zonas de Disponibilidade com desempenho consistente. Isso possibilita que equipes globais colaborem nos mesmos arquivos.
