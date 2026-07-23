@@ -36,3 +36,15 @@ O Amazon EBS disponibiliza volumes de _armazenamento no nível de bloco persiste
 Os snapshots do EBS são backups pontuais do volume do EBS. Eles podem ser usados para recuperação de desastres, migração de dados, redimensionamento de volumes e para criar backups consistentes das workloads de produção. Os snapshots do EBS são incrementais, então eles só salvam os blocos no volume que foram alterados após o snapshot mais recente.
 
 Você pode automatizar a criação, retenção e exclusão de snapshots do EBS usando o Amazon Data Lifecycle Manager. O Amazon Data Lifecycle Manager pode programar snapshots fora do horário de pico para minimizar o impacto no desempenho e excluir automaticamente backups desatualizados para controlar os custos de armazenamento. É particularmente valioso para implantações em grande escala, nas quais o gerenciamento manual de snapshot seria demorado e propenso a erros.
+
+Amazon S3 é um serviço de armazenamento de objetos totalmente gerenciado e altamente disponível para armazenar e recuperar qualquer quantidade de dados como objetos. Ele oferece durabilidade de 99,999999999%, o que significa que seus dados estão altamente protegidos contra perdas e oferece atributos como versionamento, gerenciamento do ciclo de vida e várias classes de armazenamento para otimizar custos.
+
+O Amazon S3 armazena arquivos como objetos em contêineres conhecidos como buckets, e cada objeto pode variar em tamanho de alguns bytes a vários terabytes. Ele se integra perfeitamente a outros serviços da AWS e oferece suporte a uma ampla variedade de casos de uso, desde backups básicos até data lakes complexos.
+
+Ao criar um bucket, você especifica seu nome e a região em que ele residirá. Os buckets podem ser configurados com várias configurações, incluindo versionamento, registro e permissões de acesso.
+
+As configurações do S3 Block Public Access substituem as políticas de bucket, impedindo o acesso público mesmo quando as políticas o permitem.
+
+Os buckets do S3 podem ser acessados globalmente, independentemente da região em que foram criados, desde que tenham as permissões adequadas.
+
+O S3 Standard é considerado armazenamento de uso geral para aplicações em nuvem, sites dinâmicos, distribuição de conteúdo, aplicativos móveis e de jogos e análise de big data. Quando você faz upload um objeto no Amazon S3 sem especificar uma classe de armazenamento, o objeto é adicionado ao S3 Standard por padrão.
