@@ -21,3 +21,5 @@ O Amazon Polly converte texto em fala realista. Ele suporta vários idiomas, gê
 Eles podem usar a IA do SageMaker para desenvolver seus modelos de ML sem se preocupar com a infraestrutura. Os data scientists podem usar o IDE e os analistas de negócios podem usar a interface sem código.
 
 O aprendizado profundo (DL) é um subconjunto do machine learning em que os modelos são treinados usando camadas de neurônios artificiais que imitam o cérebro humano. Cada camada dessas redes neurais resume e envia informações para a próxima camada até que um modelo final seja produzido.
+
+A IA generativa é um tipo de aprendizado profundo alimentado por modelos de ML extremamente grandes, conhecidos como modelos de base (FMs). Os FMs são pré-treinados em vastas coleções de dados. Enquanto os modelos tradicionais de ML são treinados para realizar tarefas singulares, os FMs podem ser adaptados para realizar várias tarefas.
