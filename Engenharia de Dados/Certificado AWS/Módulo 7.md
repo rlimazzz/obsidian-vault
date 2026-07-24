@@ -22,3 +22,13 @@ Um cache em memória é uma camada de armazenamento de alta velocidade que _arma
 Quando as aplicações precisam de informações específicas, primeiro eles verificam o cache antes de solicitá-las da fonte de dados original. Isso reduz a carga nos bancos de dados primários e acelera os tempos de resposta dos usuários finais. Os caches em memória são ideais para armazenar dados de sessão, respostas de API, resultados de consultas de banco de dados e outras informações que as aplicações exigem repetidamente.
 
 O ElastiCache é um serviço de cache em memória totalmente gerenciado e criado para ajudar a reduzir a complexidade da administração de sistemas de cache na memória. Isso significa que é possível continuar usando as mesmas ferramentas e configurações do Redis, Valkey ou Memcached para escalar as workloads. Ele detecta e substitui de forma automática os nós com falha, o que o torna ideal para aplicações que precisam de alto desempenho consistente.
+
+A solução Amazon DocumentDB (compatível com MongoDB) é um serviço totalmente gerenciado projetado para lidar com dados semiestruturados, que são informações em não conformidade com esquemas relacionais rígidos. A solução Amazon DocumentDB é um banco de dados compatível com o MongoDB, portanto, ele gerencia documentos do tipo JSON com esquemas dinâmicos.
+
+A solução AWS Backup simplifica a proteção de dados em vários recursos da AWS e on-premises para fornecer um único painel de monitoração e gerenciamento de backups. Ela elimina a complexidade do gerenciamento de várias estratégias de backup ao oferecer suporte a vários tipos de armazenamento, inclusive volumes da solução Amazon Elastic Block Store (Amazon EBS), sistemas de arquivos da solução Amazon Elastic File System (Amazon EFS) e vários bancos de dados.
+
+O Neptune é um serviço de banco de dados de grafos totalmente gerenciado e desenvolvido para fins específicos. Ele gerencia conjuntos de dados altamente conectados, como os usados em aplicações de redes sociais. Ele se destaca na compreensão de relacionamentos complexos e difíceis de identificar em bancos de dados relacionais tradicionais, como conexões de usuários, redes de amigos e padrões de interação. O Neptune pode manter o alto desempenho mesmo com o aumento da complexidade dos dados e oferece alta disponibilidade com failover e backups automáticos.
+
+A solução Amazon DocumentDB foi projetada para lidar com workloads de bancos de dados, e não para lidar com armazenamento de arquivamento de longo prazo.
+
+O Amazon Aurora é um banco de dados nativo da nuvem que oferece desempenho e disponibilidade superiores aos bancos de dados tradicionais, além de manter a compatibilidade com MySQL e PostgreSQL.
