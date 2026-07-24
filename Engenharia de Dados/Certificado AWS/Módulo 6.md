@@ -76,3 +76,7 @@ As classes de armazenamento Amazon S3 são projetadas para oferecer diferentes c
 O Amazon S3 é basicamente um serviço de armazenamento de objetos projetado para escalabilidade. Os usuários podem armazenar quantidades ilimitadas de dados que podem ser acessados de qualquer lugar com conectividade à Internet.
 
 O armazenamento de instâncias do EC2 fornece armazenamento temporário em nível de bloco que é fisicamente conectado ao computador host, oferecendo o melhor desempenho de E/S possível para necessidades temporárias de processamento de dados.
+
+O Amazon S3 fornece armazenamento de objetos dimensionável, ideal para armazenar e distribuir arquivos de mídia. Ele inclui atributos como políticas de ciclo de vida para otimização de custos, organização de buckets para projetos de clientes, controles de acesso para segurança e a capacidade de gerar URLs para facilitar o compartilhamento de arquivos.
+
+O Amazon FSx foi projetado especificamente como um serviço totalmente gerenciado que oferece armazenamento de arquivos baseado em sistemas de arquivos populares, como Windows File Server, Lustre, OpenZFS e NetApp ONTAP.
