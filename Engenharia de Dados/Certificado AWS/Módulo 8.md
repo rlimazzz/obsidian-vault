@@ -11,3 +11,13 @@ A pilha de IA/ML da AWS é composta pelos seguintes três níveis de soluções:
 - _Serviços de ML_ — uma abordagem mais personalizada com o Amazon SageMaker AI, na qual você cria, treina e implanta seus próprios modelos de ML com infraestrutura totalmente gerenciada
     
 - _Frameworks e infraestrutura de ML_ — uma abordagem totalmente personalizada para criar modelos usando chips criados para fins específicos que se integram a frameworks de ML populares
+
+O Amazon Comprehend pode extrair informações importantes, como a opinião do cliente, dos documentos. Isso pode ajudar a proprietária a entender melhor seus clientes.
+
+Com o Amazon Lex, a empresa pode adicionar interfaces de conversação de voz e texto às suas aplicações para criar conversas realistas. Ele pode aprimorar a aplicação de suporte ao cliente da empresa de saúde.
+
+O Amazon Polly converte texto em fala realista. Ele suporta vários idiomas, gêneros diferentes e uma variedade de sotaques. É a combinação ideal para esse caso de uso.
+
+Eles podem usar a IA do SageMaker para desenvolver seus modelos de ML sem se preocupar com a infraestrutura. Os data scientists podem usar o IDE e os analistas de negócios podem usar a interface sem código.
+
+O aprendizado profundo (DL) é um subconjunto do machine learning em que os modelos são treinados usando camadas de neurônios artificiais que imitam o cérebro humano. Cada camada dessas redes neurais resume e envia informações para a próxima camada até que um modelo final seja produzido.
