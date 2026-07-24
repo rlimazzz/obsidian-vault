@@ -70,3 +70,5 @@ O modo de volume em cache é ideal para esse cenário porque ele armazena os dad
 O Elastic Disaster Recovery replica workloads críticas para a AWS com o mínimo de tempo de inatividade. Os dados em nível de bloco de seus servidores são continuamente replicados para a AWS, tornando-os ideais para usos que exigem soluções robustas de recuperação de desastres. Ele oferece suporte a servidores físicos e virtuais para permitir uma recuperação rápida durante interrupções, o que é particularmente valioso para setores como o de saúde, onde a disponibilidade do sistema é crucial.
 
 O Elastic Disaster Recovery fornece replicação contínua em nível de bloco que mantém réplicas exatas do servidor com o mínimo de tempo entre os intervalos de backup, permitindo uma recuperação rápida quando necessário.
+
+As classes de armazenamento Amazon S3 são projetadas para oferecer diferentes características de desempenho, níveis de disponibilidade e estruturas de custo para atender aos requisitos específicos de armazenamento de dados e padrões de acesso.
