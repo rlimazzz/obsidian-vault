@@ -72,3 +72,7 @@ O Elastic Disaster Recovery replica workloads críticas para a AWS com o mínimo
 O Elastic Disaster Recovery fornece replicação contínua em nível de bloco que mantém réplicas exatas do servidor com o mínimo de tempo entre os intervalos de backup, permitindo uma recuperação rápida quando necessário.
 
 As classes de armazenamento Amazon S3 são projetadas para oferecer diferentes características de desempenho, níveis de disponibilidade e estruturas de custo para atender aos requisitos específicos de armazenamento de dados e padrões de acesso.
+
+O Amazon S3 é basicamente um serviço de armazenamento de objetos projetado para escalabilidade. Os usuários podem armazenar quantidades ilimitadas de dados que podem ser acessados de qualquer lugar com conectividade à Internet.
+
+O armazenamento de instâncias do EC2 fornece armazenamento temporário em nível de bloco que é fisicamente conectado ao computador host, oferecendo o melhor desempenho de E/S possível para necessidades temporárias de processamento de dados.
