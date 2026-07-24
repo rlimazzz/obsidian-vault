@@ -9,3 +9,10 @@ Para melhorar a resiliência dos dados, a solução Amazon RDS oferece implanta�
 O Aurora é um banco de dados relacional gerenciado e projetado para ajudar a reduzir operações de E/S desnecessárias. Ele é compatível com MySQL e PostgreSQL, oferece alto desempenho e disponibilidade, além de se adaptar de forma automática às workloads. O Aurora replica dados em várias Zona de Disponibilidade para maior durabilidade e tolerância a falhas, além de oferecer atributos de backups automatizados, criptografia em repouso e monitoramento contínuo.
 
 A arquitetura de armazenamento distribuído Aurora oferece até cinco vezes o throughput do MySQL padrão enquanto mantém a compatibilidade. Ele foi projetado de forma específica para lidar com altas workloads de transações e distribuir E/S em vários nós de armazenamento.
+
+
+### Banco de Dados NoSQL
+
+Às vezes, os bancos de dados NoSQL são chamados de _bancos de dados não relacionais_ porque suas estruturas são diferentes dos bancos de dados relacionais, como a solução Amazon RDS. Em vez de relacionamentos de linha e coluna, os bancos de dados NoSQL criam uma estrutura para os dados que eles contêm com o uso de pares de _valores-chave_. Com pares de valores-chave, os dados são organizados em itens identificados por chaves exclusivas.
+
+O DynamoDB é um serviço de banco de dados NoSQL totalmente gerenciado que fornece desempenho rápido e previsível para estruturas de dados de documentos e valores-chave. Trata-se de uma opção de banco de dados poderosa e incrivelmente rápida para casos de uso que exigem um esquema flexível, além de ser ideal para aplicações que exigem alto desempenho e scaling contínua.
