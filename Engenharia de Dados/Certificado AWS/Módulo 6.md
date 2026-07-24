@@ -80,3 +80,7 @@ O armazenamento de instâncias do EC2 fornece armazenamento temporário em níve
 O Amazon S3 fornece armazenamento de objetos dimensionável, ideal para armazenar e distribuir arquivos de mídia. Ele inclui atributos como políticas de ciclo de vida para otimização de custos, organização de buckets para projetos de clientes, controles de acesso para segurança e a capacidade de gerar URLs para facilitar o compartilhamento de arquivos.
 
 O Amazon FSx foi projetado especificamente como um serviço totalmente gerenciado que oferece armazenamento de arquivos baseado em sistemas de arquivos populares, como Windows File Server, Lustre, OpenZFS e NetApp ONTAP.
+
+Os snapshots do EBS são cópias point-in-time dos volumes do EBS que podem ser usadas para backups regulares, criando volumes duplicados para testes e permitindo uma rápida recuperação de desastres restaurando volumes inteiros a partir de instantâneos.
+
+O Amazon EBS fornece volumes persistentes de armazenamento em blocos que podem ser conectados às instâncias do EC2. Ele oferece desempenho consistente de baixa latência, pode ser escalado independentemente da instância do EC2 e oferece suporte a snapshots pontuais para fins de backup.
