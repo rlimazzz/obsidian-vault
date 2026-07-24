@@ -14,7 +14,7 @@ Os principais componentes da solução AWS Lambda são a função, os gatilhos e
 
 ## Contêineres
 
-[[Básicos]]
+[[Básicos Docker]]
 
 Um contêiner empacota sua aplicação com tudo o que ela precisa para ser executada, para que funcione da mesma forma em qualquer computador. Isso ajuda a mover, atualizar e gerenciar. Os contêineres são mais rápidos e leves do que as máquinas virtuais (VMs) porque compartilham o sistema operacional do computador host. As VMs usam um hipervisor para executar sistemas operacionais completos e separados, o que as torna menos eficientes em termos de recursos, além de terem tempos de inicialização mais longos.
 
