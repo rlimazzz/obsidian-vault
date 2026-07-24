@@ -84,3 +84,11 @@ O Amazon FSx foi projetado especificamente como um serviço totalmente gerenciad
 Os snapshots do EBS são cópias point-in-time dos volumes do EBS que podem ser usadas para backups regulares, criando volumes duplicados para testes e permitindo uma rápida recuperação de desastres restaurando volumes inteiros a partir de instantâneos.
 
 O Amazon EBS fornece volumes persistentes de armazenamento em blocos que podem ser conectados às instâncias do EC2. Ele oferece desempenho consistente de baixa latência, pode ser escalado independentemente da instância do EC2 e oferece suporte a snapshots pontuais para fins de backup.
+
+O Amazon EBS foi projetado especificamente como um serviço de armazenamento em blocos que oferece volumes persistentes que podem ser conectados às instâncias do EC2 e sobreviver ao encerramento da instância.
+
+O Storage Gateway foi projetado fundamentalmente como uma solução híbrida que conecta ambientes on-premises ao armazenamento na nuvem AWS. Isso permite que às aplicações locais acessem perfeitamente o armazenamento da AWS, mantendo os padrões de acesso locais.
+
+O Gateway de Arquivos fornece uma interface de arquivo para o armazenamento de objetos do Amazon S3. Ele mantém o acesso local de baixa latência aos dados acessados com frequência por meio do cache local e se integra perfeitamente aos fluxos de trabalho existentes baseados em arquivos.
+
+[[Módulo 7]]
