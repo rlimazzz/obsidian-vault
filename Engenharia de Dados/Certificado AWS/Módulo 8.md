@@ -49,3 +49,55 @@ Tanto a IA/ML quanto a data analytics tradicional precisam de dados limpos e ace
     
 
 Os pipelines de dados são linhas de montagem automatizadas usadas para tornar o processo ETL eficiente e repetível. A AWS tem um pacote de serviços integrados para que você possa criar seus próprios pipelines de dados.
+
+> **Amazon Kinesis Data Streams**
+
+Você pode usar o Kinesis Data Streams para a ingestão em tempo real de terabytes de dados de aplicações, streams e sensores. Esse serviço com tecnologia sem servidor fornece até mesmo provisionamento e scaling automáticos no modo sob demanda.
+
+> **Amazon Data Firehose**
+
+O Firehose é uma opção para ingestão de dados quase em tempo real. Esse serviço totalmente gerenciado fornece provisionamento e scaling automáticos. Ele também entrega dados em segundos para data lakes, armazéns e serviços de análise.
+
+### Serviços de armazenamento de dados
+
+> **Amazon S3**
+
+O Amazon S3 é uma escolha popular para data lakes. Esse serviço de armazenamento de objetos pode armazenar com segurança praticamente qualquer quantidade de dados estruturados ou não estruturados. O Amazon S3 também é totalmente elástico, com auto scaling à medida que você adiciona e remove dados.
+
+> **Amazon Redshift**
+
+O Amazon Redshift é um serviço de data warehouse totalmente gerenciado que pode armazenar petabytes de dados estruturados ou semiestruturados. Com a escalabilidade e o modelo de preços com pagamento conforme o uso, as organizações podem analisar grandes conjuntos de dados de forma econômica.
+
+### Serviços de catalogação de dados
+
+> **AWS Glue Data Catalog**
+
+O AWS Glue Data Catalog fornece um repositório de metadados centralizado, dimensionável e gerenciado que aprimora a descoberta de dados. Ele melhora a eficiência geral dos pipelines de dados ao fornecer metadados para vários armazenamentos de dados e serviços de análise.
+
+### Serviços de processamento de dados
+
+> **AWS Glue**
+
+O AWS Glue é um serviço de ETL totalmente gerenciado que torna a preparação de dados mais simples, rápida e econômica. Os trabalhos de ETL do AWS Glue podem usar o catálogo de dados do AWS Glue para acessar metadados sobre fontes de dados, o que pode ajudar a informar as transformações definidas no script ETL.
+
+> **Amazon EMR**
+
+O Amazon EMR é ideal para processamento de dados em grande escala e organizações com experiência existente em big data. Ele gerencia automaticamente o provisionamento da infraestrutura, o gerenciamento de clusters e scaling. O Amazon EMR oferece suporte a frameworks populares de big data, como Apache Spark, Apache Hadoop e Apache Hive.
+
+### Serviços de análise e visualização de dados
+
+> **Amazon Athena**
+
+Com o Athena, você pode executar consultas SQL para analisar dados em fontes de dados relacionais, não relacionais, de objetos e personalizadas. Esse serviço com tecnologia sem servidor totalmente gerenciado pode acessar dados hospedados no Amazon S3, on-premises ou até mesmo em ambientes multinuvem. Ele oferece uma solução econômica para análise de dados, pois você paga apenas pelas consultas executadas.
+
+> **Amazon Redshift**
+
+O Amazon Redshift é uma solução de data warehouse totalmente gerenciada. Seu armazenamento em colunas e sua arquitetura de processamento massivamente paralelo o tornam ideal para analisar grandes conjuntos de dados. Você pode usá-lo para realizar consultas SQL complexas em grandes conjuntos de dados para workloads analíticas frequentes e de alto desempenho.
+
+> **Amazon QuickSight**
+
+Com o QuickSight, usuários técnicos e não técnicos podem criar rapidamente painéis e relatórios interativos modernos a partir de várias fontes de dados sem gerenciar a infraestrutura. O Amazon Q no QuickSight fornece consultas em linguagem natural para que analistas de negócios e usuários possam criar, descobrir e compartilhar informações significativas em segundos.
+
+> **Amazon OpenSearch Service**
+
+Com o OpenSearch Service, você pode pesquisar conteúdo relevante por meio de correspondência precisa de palavras-chave ou consultas em linguagem natural. Os painéis unificados fornecem visualização de dados em tempo real à medida que você analisa e monitora logs, rastreamentos e métricas de várias aplicações.
