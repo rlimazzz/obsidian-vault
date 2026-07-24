@@ -66,3 +66,7 @@ O gateway de fitas foi projetado especificamente para fazer backup de dados usan
 O S3 File Gateway fornece uma interface de arquivo no Amazon S3 para que a equipe possa armazenar e recuperar objetos usando protocolos de arquivo padrão, como NFS e SMB. Com o S3 File Gateway, os dados acessados com frequência são armazenados em cache localmente para acesso de baixa latência, enquanto os dados são armazenados no Amazon S3 para maior durabilidade e economia.
 
 O modo de volume em cache é ideal para esse cenário porque ele armazena os dados mais frequentemente acessados localmente para acesso de baixa latência, mantendo o conjunto de dados completo no Amazon S3. Isso fornece o desempenho local de que os engenheiros precisam e os benefícios do backup seguro na nuvem.
+
+O Elastic Disaster Recovery replica workloads críticas para a AWS com o mínimo de tempo de inatividade. Os dados em nível de bloco de seus servidores são continuamente replicados para a AWS, tornando-os ideais para usos que exigem soluções robustas de recuperação de desastres. Ele oferece suporte a servidores físicos e virtuais para permitir uma recuperação rápida durante interrupções, o que é particularmente valioso para setores como o de saúde, onde a disponibilidade do sistema é crucial.
+
+O Elastic Disaster Recovery fornece replicação contínua em nível de bloco que mantém réplicas exatas do servidor com o mínimo de tempo entre os intervalos de backup, permitindo uma recuperação rápida quando necessário.
