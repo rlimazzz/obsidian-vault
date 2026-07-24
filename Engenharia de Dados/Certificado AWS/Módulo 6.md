@@ -50,3 +50,19 @@ Os buckets do S3 podem ser acessados globalmente, independentemente da região e
 O S3 Standard é considerado armazenamento de uso geral para aplicações em nuvem, sites dinâmicos, distribuição de conteúdo, aplicativos móveis e de jogos e análise de big data. Quando você faz upload um objeto no Amazon S3 sem especificar uma classe de armazenamento, o objeto é adicionado ao S3 Standard por padrão.
 
 O Amazon EFS foi projetado para acesso compartilhado simultâneo de várias instâncias do EC2 em diferentes Zonas de Disponibilidade com desempenho consistente. Isso possibilita que equipes globais colaborem nos mesmos arquivos.
+
+O Storage Gateway é um serviço de armazenamento na nuvem híbrido que possibilita a integração perfeita de ambientes on-premises com o armazenamento na nuvem AWS. Você pode usá-lo para estender seu armazenamento local para a nuvem e, ao mesmo tempo, manter o acesso de baixa latência aos dados usados com frequência.
+
+Você pode usar o Storage Gateway para simplificar o gerenciamento do armazenamento e reduzir os custos em casos de uso práticos de armazenamento na nuvem híbrida. Isso inclui mover backups para a nuvem, usar compartilhamentos de arquivos on-premises apoiados por armazenamento na nuvem e fornecer acesso de baixa latência aos dados na AWS para aplicações on-premises.
+
+O Amazon S3 File Gateway conecta seu ambiente local ao Amazon S3. Ele fornece às aplicações on-premises acesso a armazenamento na nuvem virtualmente ilimitado por meio de protocolos de arquivo familiares. O S3 File Gateway possibilita armazenar e recuperar objetos na nuvem usando operações familiares de arquivos.
+
+Com o gateway de volumes, você cria volumes de armazenamento virtual enquanto mantém o acesso local aos seus dados. Basicamente, ele funciona como uma ponte entre sua infraestrutura on-premises e o armazenamento na nuvem AWS, apresentando seus dados na nuvem como volumes iSCSI que podem ser montados por suas aplicações existentes.
+
+O gateway de fitas possibilita a substituição da infraestrutura física de fita por recursos de fita virtual, ao mesmo tempo em que se beneficia da durabilidade e da escalabilidade do armazenamento na nuvem AWS. O gateway de fitas fornece uma interface que funciona com o software de backup em fita existente, facilitando a transição das fitas físicas para o armazenamento na nuvem.
+
+O gateway de fitas foi projetado especificamente para fazer backup de dados usando aplicações e processos de backup baseados em fitas existentes. Ele emula bibliotecas de fitas virtuais, mas não fornece acesso em nível de arquivo para operações diárias.
+
+O S3 File Gateway fornece uma interface de arquivo no Amazon S3 para que a equipe possa armazenar e recuperar objetos usando protocolos de arquivo padrão, como NFS e SMB. Com o S3 File Gateway, os dados acessados com frequência são armazenados em cache localmente para acesso de baixa latência, enquanto os dados são armazenados no Amazon S3 para maior durabilidade e economia.
+
+O modo de volume em cache é ideal para esse cenário porque ele armazena os dados mais frequentemente acessados localmente para acesso de baixa latência, mantendo o conjunto de dados completo no Amazon S3. Isso fornece o desempenho local de que os engenheiros precisam e os benefícios do backup seguro na nuvem.
