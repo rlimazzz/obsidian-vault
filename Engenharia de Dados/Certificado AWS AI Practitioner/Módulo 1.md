@@ -1,0 +1,1 @@
+Decidi também tirar o certificado AI Practitioner pois estava em promoção para tirar o certificado de [[Engenharia de Dados/Certificado AWS Cloud Practitioner/Módulo 1|Módulo 1]] de graça.
