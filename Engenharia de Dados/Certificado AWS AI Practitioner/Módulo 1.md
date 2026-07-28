@@ -13,3 +13,7 @@ GenAI - Generative AI is a specialized subset of AI that generates out content, 
 AI is computer systems that perform tasks typically requiring human intelligence.
 
 GenerativeAI is a subset of AI that focuses on creating new content or data that is novel and realistic. It can interpret or analyze data but also generates new data itself. It includes generating text, images, music, speech, and other forms of media.
+
+## NLP 
+
+Natural Language Processing is a  Machine Learning technique that can understand the context of a corpus(a body of related text).
