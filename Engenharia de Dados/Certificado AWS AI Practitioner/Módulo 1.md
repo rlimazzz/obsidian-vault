@@ -17,3 +17,4 @@ GenerativeAI is a subset of AI that focuses on creating new content or data that
 ## NLP 
 
 Natural Language Processing is a  Machine Learning technique that can understand the context of a corpus(a body of related text).
+
