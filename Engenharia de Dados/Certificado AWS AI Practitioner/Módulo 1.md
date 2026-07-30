@@ -21,3 +21,11 @@ Natural Language Processing is a  Machine Learning technique that can understand
 Regression is a process of finding a function to correlate a labeled dataset into continuous variable/number.
 
 Classification is a process of finding a function to divide a labeled dataset into classes/categories.
+
+### Types of Machine Learning
+
+Supervised : using a model to learn a mapping between input examples and the target variable.
+
+Unsupervised : using a model to describe or extract relationship in data.
+
+Reinforcement : an agent operates in an enviroment and must learn to operate using feedback.
