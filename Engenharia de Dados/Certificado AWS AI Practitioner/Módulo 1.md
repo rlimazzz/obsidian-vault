@@ -19,3 +19,5 @@ GenerativeAI is a subset of AI that focuses on creating new content or data that
 Natural Language Processing is a  Machine Learning technique that can understand the context of a corpus(a body of related text).
 
 Regression is a process of finding a function to correlate a labeled dataset into continuous variable/number.
+
+Classification is a process of finding a function to divide a labeled dataset into classes/categories.
