@@ -39,3 +39,5 @@ Clustering : Is a process grouping unlabeled data based on similarities and diff
 Association : Is the process of finding a relationship between variables through association.
 
 Dimensionality Reduction : Is a process of reducing the amount of data while retaining data integrity. Often used as a pre-processing stage.
+
+Neural Networks : Often described as mimicking the brain, a neuron represents an algorithm. Data is inputted into a neuron and based on the output the data will be passed to one of many other connected neurals.
