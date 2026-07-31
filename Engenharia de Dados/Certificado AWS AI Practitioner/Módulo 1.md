@@ -29,3 +29,13 @@ Supervised : using a model to learn a mapping between input examples and the tar
 Unsupervised : using a model to describe or extract relationship in data.
 
 Reinforcement : an agent operates in an enviroment and must learn to operate using feedback.
+
+Supervised Learning : A machine learning task that needs to be provided training data. Training data is when you provide the labeled data(the correct answer) and the machine can learn from theses results.
+
+Unsupervised Learning : A machine learning task that needs no existing data. UL will take unlabeled data and discover its patterns and applying its own labels.
+
+Clustering : Is a process grouping unlabeled data based on similarities and differences.
+
+Association : Is the process of finding a relationship between variables through association.
+
+Dimensionality Reduction : Is a process of reducing the amount of data while retaining data integrity. Often used as a pre-processing stage.
