@@ -43,3 +43,6 @@ Dimensionality Reduction : Is a process of reducing the amount of data while ret
 Neural Networks : Often described as mimicking the brain, a neuron represents an algorithm. Data is inputted into a neuron and based on the output the data will be passed to one of many other connected neurals.
 
 A basic perceptron has an input layer and output layer, each layers contains a number of nodes, nodes between layers have established connections that are weighted.
+
+Data Wrangling : The process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes as analytics. Also known as data munging.
+
