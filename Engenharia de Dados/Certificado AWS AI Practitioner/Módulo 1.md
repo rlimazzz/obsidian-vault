@@ -46,5 +46,12 @@ A basic perceptron has an input layer and output layer, each layers contains a n
 
 Data Wrangling : The process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes as analytics. Also known as data munging.
 The are 6 core steps behind data wrangling:
+	
 	Discovery: understand what your data is about and keep in mind domain specific details about your data as you move through the other steps.
-	s
+	
+	Structuring: you need to organize your content into a structure that will be easier to work for our end results.
+	
+	Cleaning: remove outliers, change null values, remove special characters, standardize formatting.
+
+	En
+	
