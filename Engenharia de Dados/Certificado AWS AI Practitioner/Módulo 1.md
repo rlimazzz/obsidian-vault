@@ -58,4 +58,6 @@ The are 6 core steps behind data wrangling:
 	Validating: authenticate the reliability, quality, and safety of the data.
 
 	Publishing: place your data in a datastore so you can use it downstream.
-	
+
+
+Data modeling : an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
