@@ -53,5 +53,9 @@ The are 6 core steps behind data wrangling:
 	
 	Cleaning: remove outliers, change null values, remove special characters, standardize formatting.
 
-	En
+	Enriching: appending or enhancing collected data with relevant context obtained from additional sources.
+
+	Validating: authenticate the reliability, quality, and safety of the data.
+
+	Publishing: place your data in a datastore so you can use it downstream.
 	
