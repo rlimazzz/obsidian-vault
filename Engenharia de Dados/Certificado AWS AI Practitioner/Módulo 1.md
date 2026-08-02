@@ -45,4 +45,6 @@ Neural Networks : Often described as mimicking the brain, a neuron represents an
 A basic perceptron has an input layer and output layer, each layers contains a number of nodes, nodes between layers have established connections that are weighted.
 
 Data Wrangling : The process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes as analytics. Also known as data munging.
-
+The are 6 core steps behind data wrangling:
+	Discovery: understand what your data is about and keep in mind domain specific details about your data as you move through the other steps.
+	s
