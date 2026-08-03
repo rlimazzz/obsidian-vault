@@ -60,4 +60,6 @@ The are 6 core steps behind data wrangling:
 	Publishing: place your data in a datastore so you can use it downstream.
 
 
-Data modeling : an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities. A data model could be a relational database that contains many tables.
+Data Modeling : an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities. A data model could be a relational database that contains many tables.
+
+Data Analytics :  is concerned with examining, transforming, and arranging data so that you can extract and study useful information.
