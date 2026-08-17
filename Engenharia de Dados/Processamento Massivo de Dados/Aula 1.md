@@ -14,3 +14,4 @@ Soluções Distribuídas
 - Variedade
 - Veracidade
 - Valor
+
