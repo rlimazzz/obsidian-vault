@@ -6,4 +6,4 @@ Requirements Specification - Documentação dos requisitos.
 
 Requirements Validation - Verificar se estamos fazendo o sistema corretamente.
 
-Iterative Nature of The Requirements Process - O processo de requisitos é iterativo e linear, possuí mudança constante cujo objetivo é apresentar uma solução computacional.
+Iterative Nature of The Requirements Process - O processo de requisitos é altamente recursivo e linear, possuí mudança constante cujo objetivo é apresentar uma solução computacional.
