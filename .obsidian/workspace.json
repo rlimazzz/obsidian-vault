@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Requisitos/Datas Importantes.md",
+                "file": "Engenharia de Requisitos/Anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datas Importantes"
+              "title": "Anotações"
             }
           }
         ],
@@ -208,12 +208,13 @@
   },
   "active": "aa69de4828045c44",
   "lastOpenFiles": [
+    "Engenharia de Requisitos/Datas Importantes.md",
+    "Engenharia de Requisitos/Anotações.md",
     "Advances in Financial Machine Learning/Chapter 2.md",
-    "Pasted image 20260817083248.png",
     "Engenharia de Dados/Processamento Massivo de Dados/Aula 1.md",
+    "Pasted image 20260817083248.png",
     "Advances in Financial Machine Learning",
     "Pasted image 20260817083213.png",
-    "Engenharia de Requisitos/Datas Importantes.md",
     "Engenharia de Requisitos",
     "README.md",
     "Engenharia de Dados/Processamento Massivo de Dados",
