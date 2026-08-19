@@ -15,3 +15,5 @@ Rastreabilidade - Olhar elementos de implementação que existem para implementa
 Mnêmonico - Algo que remete à memória, uma técnica de memorização.
 
 MVP - Requisitos de mais alta prioridade.
+
+Requisito não pode ser subjetivo, deve ser preciso e não ambíguo.
