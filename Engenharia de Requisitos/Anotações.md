@@ -10,3 +10,5 @@ Iterative Nature of The Requirements Process - O processo de requisitos é altam
 
 Requirements Stability and Volability - Se o Requisito é estável e quanto oscila durante o tempo se oscilar.
 
+Rastreabilidade - Olhar elementos de implementação que existem para implementar tal requisito.
+
