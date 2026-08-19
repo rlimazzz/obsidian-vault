@@ -12,3 +12,4 @@ Requirements Stability and Volability - Se o Requisito é estável e quanto osci
 
 Rastreabilidade - Olhar elementos de implementação que existem para implementar tal requisito.
 
+Mnêmonico - Algo que remete à memória, uma técnica de memorização.
