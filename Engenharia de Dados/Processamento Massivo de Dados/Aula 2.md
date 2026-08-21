@@ -17,3 +17,4 @@ Arquitetura Medallion : ==é um padrão de design de dados usado para organizar 
 	Bronze : Dados brutos, usados para salvar caso aconteça alguma coisa em alguma etapa à frente.
 	Silver : Filtrar, limpar e complementar os dados ingeridos na camada bronze, é uma camada intermediária para meio que transformar os dados.
 	Gold : Tabelas selecionadas em nível de negócio, organizadas em banco de dados específicos para cada negócio.
+
