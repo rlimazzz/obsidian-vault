@@ -38,3 +38,5 @@ Requisito não funcional define uma qualidade que o sw deve apresentar.
 	Manutenibilidade
 	Flexibilidade
 	Proteção
+	
+Requisitos de dados é o que define os dados que o sw deve utilizar.
