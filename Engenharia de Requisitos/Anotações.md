@@ -25,3 +25,16 @@ Separação de preocupações
 Dividir pra conquistar
 
 Ocultação de informações
+
+## Requisitos Funcionais e Não-Funcionais
+
+Requisito não funcional define uma qualidade que o sw deve apresentar.
+	Adequação funcional
+	Eficiência de desempenho
+	Compatibilidade
+	Usabilidade
+	Confiabilidade
+	Segurança
+	Manutenibilidade
+	Flexibilidade
+	Proteção
