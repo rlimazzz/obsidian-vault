@@ -40,3 +40,17 @@ Requisito não funcional define uma qualidade que o sw deve apresentar.
 	Proteção
 	
 Requisitos de dados é o que define os dados que o sw deve utilizar.
+
+
+
+## Técnicas para Engenharia de Requisitos
+
+Gestão : rastreabilidade, negociação, priorizção, aprovação, controle de mudanças.
+
+Eliciação : revisão de literatura, rtnografia, entrevista, questionário, workshop, brainstorm, benchmark.
+
+Análise : modelagem conceitual de processos e dados, caso de uso, história de usuário, protótipo e storyboard.
+
+Especificação : padrões de documentação, templates, notações, vocabulário restrito.
+
+Verificação e Validação : checklists, leitura baseada em perspectiva, inspeção, walkthrough.
