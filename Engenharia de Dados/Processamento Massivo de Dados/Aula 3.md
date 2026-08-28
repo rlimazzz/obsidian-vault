@@ -8,3 +8,4 @@ Tabelas Fato:
 	Podem ser agregadas com o modelo estrela, pois facilita e melhora a cardinalidade.
 
 Data Marts: mini data warehouses.
+
