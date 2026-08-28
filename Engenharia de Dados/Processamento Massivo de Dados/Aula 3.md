@@ -9,3 +9,5 @@ Tabelas Fato:
 
 Data Marts: mini data warehouses.
 
+
+Arquitetura de banco de dados: $$ Linha  vs  Coluna $$
