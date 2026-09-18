@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Dados/Processamento Massivo de Dados/Aula 3.md",
+                "file": "Aleatórios/UTF-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 3"
+              "title": "UTF-8"
             }
           }
         ],
@@ -209,8 +209,10 @@
   "active": "aa69de4828045c44",
   "lastOpenFiles": [
     "Engenharia de Requisitos/Anotações.md",
-    "Engenharia de Dados/Processamento Massivo de Dados/Aula 3.md",
+    "Aleatórios/UTF-8.md",
+    "Aleatórios",
     "Engenharia de Requisitos/Datas Importantes.md",
+    "Engenharia de Dados/Processamento Massivo de Dados/Aula 3.md",
     "Engenharia de Dados/Processamento Massivo de Dados/Aula 2.md",
     "Engenharia de Dados/Certificado AWS Cloud Practitioner/Módulo 8.md",
     "Engenharia de Dados/Processamento Massivo de Dados/Aula 1.md",
@@ -248,8 +250,6 @@
     "Engenharia de Dados/Spark/Introduction.md",
     "Engenharia de Dados/Spark/Untitled.md",
     "Engenharia de Dados/Banco de Dados/SQL.md",
-    "Engenharia de Dados/Spark",
-    "Engenharia de Dados/Certificado Google/Nota Inicial.md",
     "Pasted image 20250911110900.png",
     "Untitled.canvas"
   ]

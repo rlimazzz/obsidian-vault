@@ -54,3 +54,5 @@ Análise : modelagem conceitual de processos e dados, caso de uso, história de 
 Especificação : padrões de documentação, templates, notações, vocabulário restrito.
 
 Verificação e Validação : checklists, leitura baseada em perspectiva, inspeção, walkthrough.
+
+Conhecimento tácito : É aquele saber prático e pessoal que adquirimos através da experiência de vida, sendo difícil de explicar, documentar ou ensinar por meio de palavras.

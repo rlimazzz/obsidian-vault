@@ -11,3 +11,4 @@ Data Marts: mini data warehouses.
 
 
 Arquitetura de banco de dados: $$ Linha  vs  Coluna $$
+Clusterização : ordenação no bigquery e em sistemas cloud.

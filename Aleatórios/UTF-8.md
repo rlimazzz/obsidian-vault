@@ -1,0 +1,1 @@
+Todas as letras e números cabem em 8 bits, exceto quando temos ç e acentuadas. O primeiro bit é usado para codificar o UTF-8, indicando que é de fato UTF-8
