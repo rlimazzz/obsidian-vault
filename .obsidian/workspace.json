@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/Relational Model.md",
+                "file": "DBMS/DBT Database talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relational Model"
+              "title": "DBT Database talk"
             }
           }
         ],
@@ -209,6 +209,7 @@
   "active": "aa69de4828045c44",
   "lastOpenFiles": [
     "DBMS/Relational Model.md",
+    "DBMS/DBT Database talk.md",
     "DBMS",
     "Aleatórios/UTF-8.md",
     "Engenharia de Requisitos/Anotações.md",
@@ -249,7 +250,6 @@
     "Engenharia de Dados/Certificado AWS/Untitled 1.md",
     "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Engenharia de Dados/Spark/Introduction.md",
-    "Engenharia de Dados/Spark/Untitled.md",
     "Pasted image 20250911110900.png",
     "Untitled.canvas"
   ]

@@ -1,0 +1,1 @@
+Important: Sql is based on bags(duplicates) not sets(no duplicates).
