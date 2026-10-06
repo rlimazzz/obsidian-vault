@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "DBT Database talk"
             }
+          },
+          {
+            "id": "dc60411c5dbe03f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capítulo 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capítulo 1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "44695e40cc68b993",
@@ -141,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capítulo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,10 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa69de4828045c44",
+  "active": "dc60411c5dbe03f7",
   "lastOpenFiles": [
-    "DBMS/Relational Model.md",
     "DBMS/DBT Database talk.md",
+    "Capítulo 1.md",
+    "Sistemas Distribuídos",
+    "DBMS/Relational Model.md",
     "DBMS",
     "Aleatórios/UTF-8.md",
     "Engenharia de Requisitos/Anotações.md",
@@ -246,10 +264,8 @@
     "Programação Competitiva/Aleatórios/STL.md",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "Engenharia de Dados/Certificado AWS/Untitled 1.md",
     "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
-    "Engenharia de Dados/Spark/Introduction.md",
     "Pasted image 20250911110900.png",
     "Untitled.canvas"
   ]
