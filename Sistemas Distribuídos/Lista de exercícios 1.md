@@ -1,0 +1,1 @@
+1) Memória ram, armazenamento, processamento, memória em disco, processamento de vídeo. 

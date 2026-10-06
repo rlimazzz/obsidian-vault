@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/DBT Database talk.md",
+                "file": "Sistemas Distribuídos/Lista de exercícios 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBT Database talk"
+              "title": "Lista de exercícios 1"
             }
           },
           {
@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capítulo 1.md",
+                "file": "Sistemas Distribuídos/Capítulo 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capítulo 1"
+              "title": "Capítulo 2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "44695e40cc68b993",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capítulo 1.md",
+                "file": "Sistemas Distribuídos/Lista de exercícios 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -222,10 +221,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc60411c5dbe03f7",
+  "active": "aa69de4828045c44",
   "lastOpenFiles": [
+    "Sistemas Distribuídos/Capítulo 1.md",
+    "Sistemas Distribuídos/Lista de exercícios 1.md",
     "DBMS/DBT Database talk.md",
-    "Capítulo 1.md",
+    "Sistemas Distribuídos/Capítulo 2.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
     "Sistemas Distribuídos",
     "DBMS/Relational Model.md",
     "DBMS",
@@ -250,7 +254,6 @@
     "Engenharia de Dados/Certificado AWS AI Practitioner/Módulo 1.md",
     "Engenharia de Dados/Simulados AWS/AI Practitioner Simulado.md",
     "Engenharia de Dados/Certificado AWS AI Practitioner",
-    "Engenharia de Dados/Simulados AWS",
     "Engenharia de Dados/Certificado AWS Cloud Practitioner/Módulo 7.md",
     "Engenharia de Dados/Certificado AWS Cloud Practitioner/Módulo 4.md",
     "Engenharia de Dados/Certificado AWS Cloud Practitioner/Módulo 1.md",
@@ -262,10 +265,6 @@
     "Pasted image 20260720080717.png",
     "Software Básico/Assembly/Anotações Assembly.md",
     "Programação Competitiva/Aleatórios/STL.md",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Engenharia de Dados/Certificado AWS/Untitled 1.md",
-    "Engenharia de Dados/Banco de Dados/Álgebra Relacional.md",
     "Pasted image 20250911110900.png",
     "Untitled.canvas"
   ]
